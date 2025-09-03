@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/shadymo2291/order-summary-component-solution
 
 ### Built with
 
